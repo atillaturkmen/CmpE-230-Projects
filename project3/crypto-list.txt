@@ -1,0 +1,6 @@
+bitcoin
+ethereum
+litecoin
+binance-peg-dogecoin
+iota
+bittorrent-2
