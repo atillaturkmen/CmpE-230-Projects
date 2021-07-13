@@ -1,0 +1,3 @@
+# Because every language is better if they can handle zero division errors, right?
+# ..right?
+print(1/0) # :(

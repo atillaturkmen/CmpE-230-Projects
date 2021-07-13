@@ -1,0 +1,7 @@
+# Let's do some cool math!
+
+a_cool_variable = not_so_cool_variable * not_so_cool_variable
+a_cooler_variable = 10 * a_cool_variable
+
+# a variable so cool that it cannot be computed...
+too_cool variable = ((0 + a_cool_variable) + 5) + (a_cool_variable * 10))  # Syntax error 
